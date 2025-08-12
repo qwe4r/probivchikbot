@@ -1,0 +1,36 @@
+2025-08-12 22:17:19,047 - root - INFO - Starting bot...
+2025-08-12 22:17:19,048 - aiogram.dispatcher - INFO - Start polling
+2025-08-12 22:17:19,256 - aiogram.dispatcher - INFO - Run polling for bot @Internetzukbot id=8048532796 - 'Интернет ЖУК'
+2025-08-12 22:17:19,311 - __main__ - INFO - Получена команда /start от пользователя 8157315639 (ㅤ/Reverie)
+2025-08-12 22:17:19,312 - __main__ - INFO - Данные пользователей успешно сохранены.
+2025-08-12 22:17:19,324 - __main__ - INFO - Созданы данные для нового пользователя: 8157315639
+2025-08-12 22:17:19,326 - __main__ - INFO - Получена команда /start от пользователя 8157315639 (ㅤ/Reverie)
+2025-08-12 22:17:19,334 - __main__ - INFO - Получена команда /start от пользователя 8157315639 (ㅤ/Reverie)
+2025-08-12 22:17:19,336 - __main__ - INFO - Получена команда /start от пользователя 8157315639 (ㅤ/Reverie)
+2025-08-12 22:17:19,336 - __main__ - INFO - Получена команда /start от пользователя 8157315639 (ㅤ/Reverie)
+2025-08-12 22:17:19,562 - aiogram.event - INFO - Update id=929388363 is handled. Duration 235 ms by bot id=8048532796
+2025-08-12 22:17:19,590 - aiogram.event - INFO - Update id=929388360 is handled. Duration 280 ms by bot id=8048532796
+2025-08-12 22:17:19,616 - aiogram.event - INFO - Update id=929388362 is handled. Duration 280 ms by bot id=8048532796
+2025-08-12 22:17:19,635 - aiogram.event - INFO - Update id=929388361 is handled. Duration 297 ms by bot id=8048532796
+2025-08-12 22:17:19,670 - aiogram.event - INFO - Update id=929388364 is handled. Duration 344 ms by bot id=8048532796
+2025-08-12 22:17:37,558 - __main__ - INFO - Данные пользователей успешно сохранены.
+2025-08-12 22:17:37,663 - aiogram.event - INFO - Update id=929388365 is handled. Duration 187 ms by bot id=8048532796
+2025-08-12 22:17:38,708 - aiogram.event - INFO - Update id=929388366 is handled. Duration 186 ms by bot id=8048532796
+2025-08-12 22:17:43,539 - __main__ - INFO - Данные пользователей успешно сохранены.
+2025-08-12 22:17:43,639 - aiogram.event - INFO - Update id=929388367 is handled. Duration 1000 ms by bot id=8048532796
+2025-08-12 22:17:47,769 - aiogram.event - INFO - Update id=929388368 is handled. Duration 375 ms by bot id=8048532796
+2025-08-12 22:18:19,432 - aiogram.event - INFO - Update id=929388369 is handled. Duration 94 ms by bot id=8048532796
+2025-08-12 22:18:23,245 - aiogram.event - INFO - Update id=929388370 is handled. Duration 61 ms by bot id=8048532796
+2025-08-12 22:18:25,402 - aiogram.event - INFO - Update id=929388371 is handled. Duration 312 ms by bot id=8048532796
+2025-08-12 22:18:47,938 - aiogram.event - INFO - Update id=929388372 is handled. Duration 94 ms by bot id=8048532796
+2025-08-12 22:18:57,894 - aiogram.event - INFO - Update id=929388373 is handled. Duration 438 ms by bot id=8048532796
+2025-08-12 22:20:58,043 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2025-08-12 22:20:58,043 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8048532796)
+2025-08-12 22:20:59,055 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2025-08-12 22:20:59,055 - aiogram.dispatcher - WARNING - Sleep for 1.306947 seconds and try again... (tryings = 1, bot id = 8048532796)
+2025-08-12 22:21:10,682 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 8048532796)
+2025-08-12 22:21:47,127 - aiogram.event - INFO - Update id=929388374 is handled. Duration 250 ms by bot id=8048532796
+2025-08-12 22:28:50,297 - aiogram.event - INFO - Update id=929388375 is handled. Duration 234 ms by bot id=8048532796
+2025-08-12 22:28:53,858 - aiogram.event - INFO - Update id=929388376 is handled. Duration 186 ms by bot id=8048532796
+2025-08-12 22:29:18,140 - aiogram.event - INFO - Update id=929388377 is handled. Duration 313 ms by bot id=8048532796
+2025-08-12 22:29:23,009 - aiogram.event - INFO - Update id=929388378 is handled. Duration 266 ms by bot id=8048532796

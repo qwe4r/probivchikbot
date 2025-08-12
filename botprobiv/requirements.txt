@@ -1,0 +1,4 @@
+aiohttp
+telebot
+requests
+aiohttp
